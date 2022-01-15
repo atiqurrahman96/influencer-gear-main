@@ -1,0 +1,112 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Licorice&family=Poppins:ital,wght@0,200;0,400;0,600;0,700;1,300&family=Roboto+Mono:ital,wght@1,200&display=swap');
+/* influencer styles */
+/* common styles */
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color:  #AAAAAA;; 
+    padding: 60px;  
+}
+.infulencer-container{
+    display: flex;
+}
+.infulencer-container h2{
+    margin-bottom: 200px;
+    }
+   
+.camera-style:hover{
+    transform: rotate(360deg);
+    transition-duration: 10s;
+}
+.camera-style{
+margin-left:auto;
+    width: 500px;
+    height: 800px;
+    left: 835px;
+    top: 211px}
+    .link-button{
+        border: 2px solid springgreen;
+        border-radius: 60px;
+        padding: 20px 50px;
+        background-color: #E02C6D;;
+    }
+      
+
+    /* popular-collection */
+   
+
+
+  .collections{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-row-gap:30px;
+      
+      justify-content: center;
+      
+   }
+.container h2{
+    display: flex;
+    justify-content: center;
+}
+.collection{
+    box-shadow: 40px 20px 40px gray;
+    margin-right: 50px;
+    padding: 20px;
+}
+.fa-star.filled{
+    color: #FFC014;
+}
+.fa-star.empty{
+    color:lightseagreen;
+}
+    
+
+/* small */
+
+small{
+ background-color: hsl(338, 78%, 75%);;
+ border-radius: 40px;
+}
+/* footer and icon style  */
+footer{
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid darkblue;
+    background-color: black;
+    color: white;
+    margin-right: 40px;
+
+}
+footer a{
+    margin-right: 20px;
+
+    width: 10px;
+}
+
+    
+}
+
+
+
+
+
+    
+
+ 
+   
+
+    
+    
+
+
+        
+
+    
+  
+
+    
+      
+  
+   
+    
